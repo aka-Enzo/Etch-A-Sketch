@@ -1,5 +1,5 @@
 :root {
-  --primary-dark: #333;
+  --primary-dark: #6BB3FF;
   --primary-light: #ededed;
   --secondary-light: #fefefe;
 }
@@ -45,8 +45,6 @@ input {
   font-size: 60px;
   font-family: 'Comfortaa', 'cursive',sans-serif;
 }
-
-/* MAIN */
 
 .main {
   display: flex;
